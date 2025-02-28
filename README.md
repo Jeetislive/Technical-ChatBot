@@ -20,4 +20,4 @@ This is my first AI-powered chatbot project using **LangChain** and **Google Gem
 - **Database:** MySQL  
 
 ---
- 
+
